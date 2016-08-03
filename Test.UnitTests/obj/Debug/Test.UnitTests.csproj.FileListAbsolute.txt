@@ -1,0 +1,9 @@
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\Test.UnitTests.dll
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\Test.UnitTests.pdb
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\obj\Debug\Test.UnitTests.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\obj\Debug\Test.UnitTests.dll
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\obj\Debug\Test.UnitTests.pdb
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\Test.exe
+F:\Projects\OnlineReader\PC Client\Test\Test.UnitTests\bin\Debug\Test.pdb

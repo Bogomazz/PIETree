@@ -1,0 +1,9 @@
+F:\Projects\OnlineReader\PC Client\Test\Test\bin\Debug\Test.exe.config
+F:\Projects\OnlineReader\PC Client\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Projects\OnlineReader\PC Client\Test\Test\bin\Debug\Test.exe
+F:\Projects\OnlineReader\PC Client\Test\Test\bin\Debug\Test.pdb
+F:\Projects\OnlineReader\PC Client\Test\Test\obj\Debug\Test.exe
+F:\Projects\OnlineReader\PC Client\Test\Test\obj\Debug\Test.pdb
+F:\Projects\Test\Test\bin\Debug\Test.exe.config
+F:\Projects\Test\Test\obj\Debug\Test.exe
+F:\Projects\Test\Test\obj\Debug\Test.pdb
